@@ -83,14 +83,14 @@ Here are the key sections and content of the **Mavi Cafe** website:
 
 ## 🔗 Live Website
 
-*(If you published the site, include the link here)*  
-[Visit Mavi Cafe Website](https://nijatt23.wixsite.com/mavi-cafe) *(Replace this with the real URL if available)*
+*
+[Visit Mavi Cafe Website](https://nijatt23.wixsite.com/mavi-cafe) 
 
 ---
 
-**Created by:** [Yasin]  
+**Created by:** [Yasin Sahyar]  
 **Task:** CMS Comparison Project – Non-WordPress CMS Evaluation  
 **Platform:** Wix  
-**Submitted to:** [Course or Instructor Name]
+
 
 --
